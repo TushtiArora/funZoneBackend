@@ -1,0 +1,36 @@
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 📦 Virtual environment
+venv/
+env/
+ENV/
+
+# 🔧 IDE settings
+.vscode/
+.idea/
+*.swp
+
+# 💻 OS generated
+.DS_Store
+Thumbs.db
+
+# 🔒 Secrets (if any, be careful!)
+.env
+*.env
+
+# 🗂 Logs or temp files
+*.log
+*.tmp
+
+# ⚙️ PyInstaller
+*.spec
+dist/
+build/
+
+# 📁 Jupyter Notebooks (optional)
+.ipynb_checkpoints/
