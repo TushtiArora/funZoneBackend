@@ -3,7 +3,7 @@ from flask_cors import CORS
 import cv2
 import time
 import os
-import handTrackingModule as htm
+import app.handTrackingModule as htm
 from PIL import Image
 import numpy as np
 
